@@ -1,2 +1,1 @@
-# my-calculator-project
-My first project on github. 
+# My first project on GitHub. 
